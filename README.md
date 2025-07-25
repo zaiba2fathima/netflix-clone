@@ -24,3 +24,29 @@ A responsive Netflix homepage clone with basic frontend and backend functionalit
 ---
 
 ## 📂 Project Structure
+
+<pre>
+netflix-clone/
+│
+├── app.py                # Flask backend
+├── templates/            # HTML files
+│   ├── index.html
+│   ├── signup.html
+│   ├── signin.html
+│   └── faq.html
+├── static/
+│   ├── style.css         # CSS styling
+│   ├── images/           # Movie posters & assets
+│   └── videos/           # Background video (if any)
+└── README.md             # Project documentation
+</pre>
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/zaiba2fathima/netflix-clone.git
+cd netflix-clone
