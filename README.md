@@ -55,8 +55,9 @@ cd netflix-clone
 
 ## 👩‍💻 Developer
 
-. **Zaiba Fathima**  
-. 💼[GitHub Profile](https://github.com/zaiba2fathima)  
-. ✉️ zebafatima2105@gmail.com
+- **Zaiba Fathima**  
+- 💼 [GitHub Profile](https://github.com/zaiba2fathima)  
+- ✉️ zebafatima2105@gmail.com
+
 
 
