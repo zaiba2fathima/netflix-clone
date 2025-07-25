@@ -1,0 +1,232 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1px ;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+}
+
+
+.logo svg {
+    height: 40px;
+    width: auto;
+}
+
+
+.buttons {
+    display: flex;
+    gap: 5px;
+
+}
+
+
+body {
+    background-color: black;
+}
+
+.hero-section {
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+}
+
+.hero-section h1 {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.hero-section p {
+    font-size: 5px;
+    margin-top: 2px;
+}
+
+.hero-section input {
+    width: 50px;
+    padding: 2px;
+    font-size: 5px;
+    border-radius: 2px;
+    border: none;
+    margin-top: 2px;
+}
+
+.signup-btn {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 2px 5px;
+    font-size: 5px;
+    cursor: pointer;
+    border-radius: 2px;
+    margin-left: 2px;
+}
+
+.signup-btn:hover {
+    background-color: darkred;
+}
+
+.separation {
+    height: 2px;
+    width: 515px;
+    background-color: rgba(143, 87, 87, 0.726);
+}
+
+.first {
+
+    display: flex;
+    justify-content: left;
+    margin: auto;
+    color: white;
+    justify-content: left;
+    align-items: left;
+    font-size: 10px;
+
+}
+
+.netflix-images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    justify-content: center;
+    
+}
+
+.netflix-images img {
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    
+}
+
+.second {
+    display: flex;
+    justify-content: left;
+    margin: auto;
+    color: white;
+    justify-content: left;
+    align-items: left;
+    font-size: 10px;
+}
+
+.second video {
+    height: 43px;
+    width: 43px;
+}
+
+.faq h2 {
+    text-align: center;
+    font-size: 10px;
+}
+
+.faq {
+    background: black;
+    color: white;
+    padding: 1px;
+}
+
+
+.faqbox {
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    padding: 2px;
+    max-width: 150px;
+    margin: 4px auto;
+    font-size: 5px;
+}
+
+.faq h2 {
+    text-align: center;
+    font-size: 10px;
+}
+
+.faq {
+    background: black;
+    color: white;
+    padding: 1px;
+}
+
+.faqbox:hover {
+    background-color: #414141;
+    color: white;
+}
+
+.faqbox svg {
+    filter: invert(1);
+}
+
+.faqbox {
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    padding: 2px;
+    max-width: 150px;
+    margin: 4px auto;
+    font-size: 5px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    max-width: 50%;
+    font-size: 5px;
+    justify-content: right;
+    align-items: right;
+}
+
+.footer-questions {
+    text-align: center;
+}
+
+.footer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    max-width: 10%;
+    margin: auto;
+
+}
+
+.footer-item {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.footer a {
+    color: gray;
+    text-decoration: none;
+    font-size: 5px;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+.features-list {
+    list-style-type: none;
+    padding: 2px;
+}
+
+.features-list li {
+    margin: 10px 0;
+    font-size: 6px;
+    color: white;
+}
+body {
+    background-color: #111;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+.button {
+    font-size: 6px;
+    padding: 4px ;
+}
+
+a[href="/features"] {
+    font-size: 3px;
+    padding: 3px ;
+}
