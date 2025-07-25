@@ -50,3 +50,12 @@ netflix-clone/
 ```bash
 git clone https://github.com/zaiba2fathima/netflix-clone.git
 cd netflix-clone
+
+---
+
+## 👩‍💻 Developer
+
+- **Zaiba Fathima**  
+- 💼 [GitHub Profile](https://github.com/zaiba2fathima)  
+- ✉️ zebafatima2105@gmail.com
+-
