@@ -153,11 +153,7 @@ body {
     font-size: 10px;
 }
 
-.faq {
-    background: black;
-    color: white;
-    padding: 1px;
-}
+
 
 .faqbox:hover {
     background-color: #414141;
@@ -231,4 +227,7 @@ body {
     color: white;
     font-family: Arial, sans-serif;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 35a50a1 (Added frontend screenshots for desktop and mobile)
