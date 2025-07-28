@@ -59,5 +59,16 @@ cd netflix-clone
 - 💼 [GitHub Profile](https://github.com/zaiba2fathima)  
 - ✉️ zebafatima2105@gmail.com
 
+---
 
+## 📱 Screenshots
+
+### 🖥️ Desktop View
+![Desktop](./frontend/desktop.png)
+
+### 📱 Mobile View
+![Mobile](./frontend/mobile.png)
+
+### ❓ FAQ Section
+![FAQ](./frontend/desktop-faq.PNG)
 
