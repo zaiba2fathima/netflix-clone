@@ -1,4 +1,8 @@
-
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -16,6 +20,11 @@
     width: auto;
 }
 
+.button {
+    padding: 6px;
+    font-size: 6px;
+    border-radius: 5px
+}
 
 .buttons {
     display: flex;
@@ -26,6 +35,7 @@
 
 body {
     background-color: black;
+    overflow-x: hidden;
 }
 
 .hero-section {
@@ -221,12 +231,4 @@ body {
     color: white;
     font-family: Arial, sans-serif;
 }
-.button {
-    font-size: 6px;
-    padding: 4px ;
-}
 
-a[href="/features"] {
-    font-size: 3px;
-    padding: 3px ;
-}
