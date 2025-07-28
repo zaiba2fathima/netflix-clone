@@ -73,3 +73,15 @@ cd netflix-clone
 ### ❓ FAQ Section
 ![FAQ](./frontend/desktop-faq.PNG)
 
+---
+
+## 🔙 Backend Screenshots
+
+### ▶️ Flask App Running
+![Flask Server](./backend/flask-server.png)
+
+### 🔐 Login Response
+![Login Response](./backend/backend-login-response.png)
+
+### 💬 Help Center
+![Help Center](./backend/backend-help.png)
