@@ -8,7 +8,7 @@
                     fill="red"></path>
             </g>
         </svg><span class="default-ltr-cache-raue2m ev1dnif1"></span></span>
-    <img src="{{ url_for('static', filename='images/netflix 19.png') }}" height="200" alt="Netflix Logo">
+  
      
 </div>
 
@@ -21,9 +21,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Netflix clone</title>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
-     <img src="{{ url_for('static', filename='images/netflix 19.png') }}" alt="My Photo" width="300">
+     <img src="{{ url_for('static', filename='images/netflix 19.png') }}" alt="Netflix Logo" width="900">
+     
     <style>
-
+   
     </style>
 
 
@@ -75,7 +76,7 @@
 {% elif lang == 'kn' %}
   <h1>ನೆಟ್ಫ್ಲಿಕ್ಸ್‌ಗೆ ಸುಸ್ವಾಗತ</h1>
 {% else %}
-  <h1>Welcome to Netflix</h1> <!-- fallback -->
+<h1 class="netflix-welcome">Welcome to Netflix</h1> 
 {% endif %}
     <div class="separation"></div>
     <section class="first">
