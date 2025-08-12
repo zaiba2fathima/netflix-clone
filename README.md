@@ -78,10 +78,10 @@ cd netflix-clone
 ## 🔙 Backend Screenshots
 
 ### ▶️ Flask App Running
-![Flask Server](./backend/flask-server.png)
+![Flask Server](./backend/flask-server.PNG)
 
 ### 🔐 Login Response
-![Login Response](./backend/backend-login-response.png)
+![Login Response](./backend/backend-login-success.PNG)
 
 ### 💬 Help Center
-![Help Center](./backend/backend-help.png)
+![Help Center](./backend/backend-faq-interaction.PNG)
